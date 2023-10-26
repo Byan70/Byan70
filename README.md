@@ -1,4 +1,4 @@
-### Hi there, I'm Brian Achieng 👋
+<h2 align="center">Hi there, I'm Brian Achieng 👋</h2>
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*yaB8KR5Jyklmkn-g.gif" align="right">
 

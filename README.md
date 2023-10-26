@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Brian Achieng 👋</h2>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*yaB8KR5Jyklmkn-g.gif" align="right">
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*yaB8KR5Jyklmkn-g.gif" align="right" width="50%">
 
 I'm a Software Engineering student at [ALx Africa](https://www.alx.com/) and a Cybersecurity enthusiast specializing in [Cybersecurity at KCA University](https://www.kca.ac.ke/). I'm passionate about leveraging technology to solve problems and enhance online security.
 
